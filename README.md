@@ -6,3 +6,4 @@ Turno:<Tu-Turno>
 Alumno:<Thiago>
 Divisi√≥n:<211>
 Turno:<Tarde>
+Thiagoâ\Tarde
