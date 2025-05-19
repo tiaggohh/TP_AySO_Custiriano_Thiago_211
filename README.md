@@ -7,3 +7,6 @@ Alumno:<Thiago>
 División:<211>
 Turno:<Tarde>
 Thiago�\Tarde
+Alumno:<Thiago>
+División:<Numero>
+Turno:<Tu-Turno>
