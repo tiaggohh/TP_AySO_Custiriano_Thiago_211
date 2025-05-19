@@ -1,12 +1,6 @@
 # TP_AySO_Custiriano_Thiago_211
+
 TP N1
-Alumno:<Tu-Nombre>
-Divisi贸n:<Numero>
-Turno:<Tu-Turno>
-Alumno:<Thiago>
-Divisi贸n:<211>
-Turno:<Tarde>
-Thiago塡Tarde
-Alumno:<Thiago>
-Divisi贸n:<Numero>
-Turno:<Tu-Turno>
+Alumno: Thiago
+Divisi贸n: 211
+Turno: Tarde
