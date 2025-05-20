@@ -1,1 +1,1 @@
-mkdir -p $HOME/{AySO/{Notas,Material,Practicas/{P1,P2}},Backups}
+mkdir -p /home/vagrant/{material1,material2}/{uni1,uni2,uni3}
